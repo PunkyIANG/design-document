@@ -1,10 +1,11 @@
 Main mechanics:
 
 - dead cells like slasher fighting,
-- one location, one spawn point, 
+- labyrinth-like location, one spawn point, 
 - player loses all items on death,
-- focus on speedrunning and player skill growth,
+- focus on speedrunning and player skill/knowledge growth,
 - lots of secrets & shortcuts,
+- in the end, each build would look like a path in the labyrinth,
 
 
 Stretch goals:
