@@ -5,10 +5,10 @@ Main mechanics:
 - player loses all items on death,
 - focus on speedrunning and player skill growth,
 - lots of secrets & shortcuts,
-- world tencency (kinda like demon's souls)
 
 
 Stretch goals:
+- world tencency (kinda like demon's souls)
 - resident evil like puzzles
 
 
