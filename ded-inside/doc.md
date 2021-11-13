@@ -1,7 +1,7 @@
 Main mechanics:
 
 - dead cells like slasher fighting,
-- labyrinth-like location, one spawn point, 
+- labyrinth-like location (NOT random), one spawn point, 
 - player loses all items on death,
 - focus on speedrunning and player skill/knowledge growth,
 - lots of secrets & shortcuts,
